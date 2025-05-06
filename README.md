@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Nonso
 - 👀 I’m interested in data analytics, cloud computing and cybersecurity
-- 🌱 I’m currently learning python and advancing my expertise in SQL, Excel, Power BI and Tableau
-- 💞️ I’m looking to collaborate on anything data 
+- 🌱 I’m currently...
+- 💞️ I’m looking to collaborate on...
 - 📫 You can reach me on nonso.okwuma@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns:
 - ⚡ Fun fact: 
 
 <!---
