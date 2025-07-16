@@ -1,4 +1,4 @@
-**Welcome to my Data Analytics Portfolio!**
+## Welcome to my Data Analytics Portfolio!
 
 I’m a data-driven professional with a strong background in IT and operations, now fully immersed in the world of data analytics. This portfolio showcases my ability to transform raw data into meaningful insights that support smart, strategic decisions.
 
